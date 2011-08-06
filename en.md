@@ -69,7 +69,7 @@ Nuclear Test
     * It will kill Kenny, you Bastards!
     * Global environmental disaster, the end of human kind.
     * The fusion reaction stops immediately. Some elements of the first wall
-    * might melt, but the ~1g fuel cannot cause serious damage.
+      might melt, but the ~1g fuel cannot cause serious damage.
 
 12. Where is the first reactor scale fusion experiment - the International
     Thermonuclear Experimental Reactor (ITER) - being constructed?
@@ -91,6 +91,6 @@ Nuclear Test
     Does your country participate in fusion research?
     * Of course, yes! :-)
     * I hope, not! :-(
-    * I don’t care, Btw WTF is fusion?
+    * I don't care, Btw WTF is fusion?
     * No idea, but I hope yes!
     * Other opinion: ...
